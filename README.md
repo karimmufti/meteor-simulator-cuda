@@ -20,7 +20,6 @@ The Meteor Madness Simulator provides end-to-end asteroid impact assessment from
 <img width="1506" height="858" alt="NASA_meteor" src="https://github.com/user-attachments/assets/3f6c30bc-18e7-4007-9642-6846c7ceea7a" />
 
 ## Video Preview:
-
 https://youtu.be/1MZlJHllBtw?si=Kcc0GTRpqKUcLI1O
 
 ### Core Capabilities
