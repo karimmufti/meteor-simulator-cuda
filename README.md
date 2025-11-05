@@ -22,7 +22,8 @@ The Meteor Madness Simulator provides end-to-end asteroid impact assessment from
 ## Video Preview:
 https://youtu.be/1MZlJHllBtw?si=Kcc0GTRpqKUcLI1O
 
-### Core Capabilities
+
+## Core Capabilities
 
 **Physics & Computation**
 - NVIDIA CUDA 12.2 acceleration delivering 2-5× speedups on L40S hardware
